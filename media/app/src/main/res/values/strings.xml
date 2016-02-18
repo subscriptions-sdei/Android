@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">media</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login Screen -->
+    <string name="logoContentDescription">Splash Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="EmailErrorMessage">Please enter email</string>
+    <string name="PasswordErrorMessage">Please enter password</string>
+    <string name="invalid_email">Please enter valid email address</string>
+    <string name="missing_email">Email is missing</string>
+    <string name="missing_password">Password is missing</string>
+    <string name="invalid_email_password">Entered email or password are not in correct format</string>
+    <string name="incorrect_email_password">Either email or password is incorrect</string>
+
+
+    <!--  Register Screen String starts here  -->
+    <string name="registerScreenTitle">Register</string>
+    <string name="nameHint">Full Name</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="register">Register</string>
+
+    <!-- Network String Starts here -->
+    <string name="network_service_message_title">Network Services</string>
+    <string name="network_service_message">Network not available</string>
+
+    <!-- ShowAlertDialog String Starts here -->
+    <string name="Ok">OK</string>
+
+
+    <!-- Application Error Message -->
+    <string name="invalid_message">Oops! something went wrong. Please try again</string>
+    <string name="no_data_received">Could not get any data from the web server</string>
+    <string name="invalid_json_format">Invalid JSON format</string>
+    <string name="unauthorized_access">Unauthorized Access</string>
+
+    <!-- Facebook Settings -->
+    <string name="facebook_app_id">66595958787</string>
+    <string name="sing_in_with_fd">Login With Facebook</string>
+    
+    
+    
+        <!-- Media Settings -->
+    <string name='title_activity_choose_photo'>ChoosePhotoActivity</string>
+    <string name='from_camera'>Camera</string>
+    <string name='from_gallery'>Gallery</string>
+    <string name='record_video'>Record Video</string>
+    <string name='preview_image'>Preview Image</string>
+    <string name='preview_video'>Preview Video</string>
+    <string name='upload'>Upload</string>
+    <string name='resizeImage'>Resize Image</string>
+    <string name='rotateImage'>Rotate Image</string>
+    <string name='deleteImage'>Delete Image</string>
+    <string name='deleteVideo'>Delete Video</string>
+    <string name='image_capture_cancelled'>User cancelled image capture</string>
+    <string name='failed_capture_image'>Sorry! Failed to capture image</string>
+    <string name='video_capture_cancelled'>User cancelled video capture</string>
+    <string name='failed_capture_video'>Sorry! Failed to capture video</string>
+    <string name='incorrect_file_format'>Incorrect File Format</string>
+    <string name='file_does_not_exists'>File does not exists</string>
+    <string name='view_gallery'>View Gallery</string>
+    <string name='view_images_only'>View Images Only</string>
+    <string name='view_videos_only'>View Videos Only</string>
+    <string name='view_both_only'>View Both</string>
+    <string name='streaming_video'>Streaming Video</string>
+    <string name='buffering_video'>Buffering...</string>
+    
+    
+    
+    
+    
+    
+
+</resources>
